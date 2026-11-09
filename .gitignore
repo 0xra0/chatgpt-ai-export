@@ -1,0 +1,22 @@
+# Operating System
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary & Downloaded Files
+*.part
+*.crdownload
+*.tmp
+*.log
+
+# Exported Archives (keep repo clean)
+*.zip
+export-manifest.json
+ChatGPT-conversation*
